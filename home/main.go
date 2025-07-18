@@ -37,7 +37,7 @@ func main(){
 	printItems(movies)
 
 	printItems(ratings)
-	fmt.Println("hello world")
+	fmt.Println("hello world version 3")
 
 
 
