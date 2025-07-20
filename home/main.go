@@ -61,4 +61,8 @@ func main(){
 
 
 
+	var mpp := map[string]int{
+		"new tutorial" : 2,
+	}
+
 }	
