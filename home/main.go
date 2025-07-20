@@ -57,6 +57,7 @@ func main(){
 		fmt.Println("CHANGES change chetshanna ga ra lamdiiiiiiiiiii DONE");
 	}
 
+	fmt.Println("HEAD -> master , origin/master , origin/HEAD")
 
 
 
