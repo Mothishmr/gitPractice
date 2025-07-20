@@ -54,7 +54,7 @@ func main(){
 
 
 	for i:= 0 ; i<  n ; i++{
-		fmt.Println("CHANGES DONE");
+		fmt.Println("CHANGES change chetshanna ga ra lamdiiiiiiiiiii DONE");
 	}
 
 
