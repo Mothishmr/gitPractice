@@ -39,8 +39,7 @@ func main(){
 	printItems(ratings)
 	fmt.Println("hello world version 3")
 
-
-
+	fmt.Println("bro what is this");
 	//  MAPS
 
 	var mpp = map[string] int {
@@ -53,6 +52,10 @@ func main(){
 		fmt.Println(name , " " , age)
 	}
 
+
+	for i:= 0 ; i<  n ; i++{
+		fmt.Println("CHANGES DONE");
+	}
 
 
 
