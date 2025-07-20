@@ -65,4 +65,6 @@ func main(){
 		"new tutorial" : 2,
 	}
 
+	fmt.Println("using ssh")
+
 }	
